@@ -1,3 +1,13 @@
+# local / reproducable data
+data
+data/*
+logs
+logs/*
+checkpoints
+checkpoints/*
+bpe_tok
+bpe_tok/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

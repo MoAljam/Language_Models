@@ -1,0 +1,59 @@
+
+Context for generated samples:
+>>>> shall the lovers
+========================================================================================================================
+
+Generated sample text for merges=10, n=9, lambdas=[4.86096755343087e-13, 1.2145682534890126e-07, 0.395012480584409, 0.6049650167310052, 2.2381225214762002e-05, 6.010058665271983e-13, 4.86096755343087e-13, 4.86096755343087e-13, 4.86096755343087e-13]:
+
+<<<< ?
+Antony with tim.
+Marchoice,
+Alare I'll drance,
+Andeed prime
+
+
+Meeds affore me, I drophese?
+An now, with 
+------------------------------------------------------------------------------------------------------------------------
+Generated sample text for merges=200, n=9, lambdas=[2.7237936734416403e-11, 0.5409290706565938, 0.4590663120050243, 4.607966075760102e-06, 8.9773259797369e-09, 3.204299364897749e-10, 3.482402351167702e-11, 8.831066072840712e-12, 3.657244686642602e-12]:
+
+<<<<  Sce Yound,
+And their cou know, I cangain, I dice,
+BERCAPULET
+MItulavene of my chan that the from the take theyes; and eart.
+
+
+
+
+Exe to be satter;
+Faphount all my let,
+But to be a riev
+------------------------------------------------------------------------------------------------------------------------
+Generated sample text for merges=800, n=9, lambdas=[2.58150917350963e-07, 0.999986192276701, 1.3549276304785108e-05, 2.8876825135847974e-10, 5.3641186732821446e-12, 4.860967205193641e-13, 4.860967205193641e-13, 4.860967205193641e-13, 4.860967205193641e-13]:
+
+<<<<  bese Wheo be senter. If welieceiveder
+
+
+And in that we may be,
+
+Servant
+
+
+Ifabinion,
+
+
+
+
+
+
+Thange thee?
+BRUTUS
+H
+Thisonst your dutio is a turn.
+SCOrongue on your corattle;
+
+
+
+What you, and
+C
+------------------------------------------------------------------------------------------------------------------------

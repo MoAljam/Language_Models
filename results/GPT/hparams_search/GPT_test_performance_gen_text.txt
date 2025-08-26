@@ -1,0 +1,46 @@
+Test performance of best models per merges from hparams search:
+test generation format:
+>>>> <context>
+ --------------------
+<<<< <generated_text>
+========================================================================================================================
+
+merges=10, lr=3.000000e-04, dropout=0.2
+model parameters count: 1660814
+Test PPL: 5.66, val PPL: 6.01, train PPL: 6.363152027130127
+
+>>>> shall the lovers
+--------------------
+<<<< ;
+Flew ladin to thou ciness!
+What the apparicy crive to me; w
+------------------------------------------------------------------------------------------------------------------------
+merges=200, lr=3.000000e-04, dropout=0.2
+model parameters count: 1709644
+Test PPL: 16.28, val PPL: 18.44, train PPL: 19.58212661743164
+
+>>>> shall the lovers
+--------------------
+<<<< 
+To breaks hear, at me.
+
+
+The witch
+
+
+POM
+Alavius
+Plasuny of friediending
+------------------------------------------------------------------------------------------------------------------------
+merges=800, lr=3.000000e-04, dropout=0.2
+model parameters count: 1863844
+Test PPL: 31.35, val PPL: 34.80, train PPL: 34.2706184387207
+
+>>>> shall the lovers
+--------------------
+<<<< ,
+To fattle power and banse: and we shall buage
+Sor it not silted, inded
+As I will see the fire the first
+Un bro
+------------------------------------------------------------------------------------------------------------------------

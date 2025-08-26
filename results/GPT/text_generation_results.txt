@@ -1,0 +1,95 @@
+used tokenizer: bytelevel_bpe, merges: 200, min_freq: 2
+>>>> <context>
+--------------------
+<<<< <generated_text>
+
+--------------------------------------------------------------------------------
+>>>>  shall the lovers
+--------------------
+<<<< .
+
+
+LADY MACBETH
+My son.
+
+
+
+HAMLET
+Your is noby to be sword?
+
+
+
+HAMLET
+Drushing too, you did me; here to enough he met;
+I take then I damning to give.
+
+
+IAGO
+The
+
+--------------------------------------------------------------------------------
+>>>> UCK
+M
+--------------------
+<<<< adam?
+
+
+
+HAMLET
+As it be done?
+
+
+
+IAGO
+Well, go, mark,
+To have a tears for swall'd; and my soul of foul,
+And mind out speeps could be bid my presently,
+And the gold, to
+
+--------------------------------------------------------------------------------
+>>>> s all,
+T
+--------------------
+<<<< o woman sweet with the friend rather, hors,
+And what poorpertion, with the grows?
+
+
+
+DEMONA
+My lord?
+
+
+ECLLOTRA
+Do not so?
+
+
+ESDEMONA
+Two what sorth said, and a
+
+--------------------------------------------------------------------------------
+>>>> ON
+But we
+--------------------
+<<<<  fight, what I know you are better, or no bled,
+Than foother's house of very chaty
+To temph. Come, that flight and comporness
+Here would have must be again; but let me passion.
+
+
+
+PORTIA
+But
+
+--------------------------------------------------------------------------------
+>>>>  salt gre
+--------------------
+<<<< ath to beard:
+For I will have spove you she which till he did the men.
+
+
+
+First Soldier
+These spirr
+Clowns, sir, get himself; let me to come
+Upon the childre, Jew rus: there shall he
+And
