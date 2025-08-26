@@ -15,9 +15,9 @@ import matplotlib.pyplot as plt
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.inspection import permutation_importance
 
-from train_mj import train, ConfigTrain
+from train import train, ConfigTrain
 from neural_bigram import NeuralBigram, ConfigNeuralBigram
-from GPT_mj import GPT, ConfigGPT
+from GPT import GPT, ConfigGPT
 from utils import WarmupThenCosine, init_dataloader, count_params
 from bpe_hf import train_and_encode_tokenizer, train_bytelevel_bpe, TOK_SPECIAL_TOKENS, TOK_SAVE_DIR
 
