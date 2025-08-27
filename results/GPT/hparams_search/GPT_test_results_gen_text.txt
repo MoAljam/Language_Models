@@ -1,0 +1,41 @@
+Test performance of best models per merges from hparams search:
+test generation format:
+>>>> <context>
+ --------------------
+<<<< <generated_text>
+========================================================================================================================
+
+merges=200, lr=3.000000e-04, dropout=0.2
+model parameters count: 6564096
+Test PPL: 9.62, val PPL: 11.10, train PPL: 11.244375228881836
+
+>>>> shall the lovers
+--------------------
+<<<< y worths are end,
+In helding doth creature, but then then,
+And she comes itself of him.
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+merges=800, lr=3.000000e-04, dropout=0.2
+model parameters count: 6871296
+Test PPL: 18.29, val PPL: 22.01, train PPL: 20.74727439880371
+
+>>>> shall the lovers
+--------------------
+<<<<  of fans; the
+And let me have the firer the ears
+Which health.
+
+
+
+Nurse
+Adieve.
+
+
+
+Nurse
+Be not still
+------------------------------------------------------------------------------------------------------------------------

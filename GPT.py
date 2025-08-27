@@ -177,7 +177,7 @@ class GPT(nn.Module):
         self.dropout_em = nn.Dropout(config.dropout)
         self.decoder_blocks = nn.Sequential(*[DecoderBlock(config) for _ in range(config.n_layer)])
         self.lyer_norm = nn.LayerNorm(config.n_embed, bias=config.bias)
-        self.lin_out = nn.Linear(config.n_embed, config.vocab_size)
+        self.lin_out = nn.Linear(config.n_embed, config.vocab_size, bias=config.bias)
 
         # initialize weights
         self.apply(self._init_weights)

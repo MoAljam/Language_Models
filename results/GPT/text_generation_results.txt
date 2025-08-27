@@ -1,4 +1,4 @@
-used tokenizer: bytelevel_bpe, merges: 200, min_freq: 2
+used tokenizer: bytelevel_bpe, merges: 800, min_freq: 2
 >>>> <context>
 --------------------
 <<<< <generated_text>
@@ -6,90 +6,105 @@ used tokenizer: bytelevel_bpe, merges: 200, min_freq: 2
 --------------------------------------------------------------------------------
 >>>>  shall the lovers
 --------------------
+<<<< , bear
+The thine of the tail, as weep'd in chips.
+
+
+
+OCTAVIUS CAESAR
+What are in their brave
+Thank'd in appild?
+
+
+
+SCENE I. Appa:
+Exander
+Enter CAPULET and SCENE BAS
+Enter CAPULET, ROSENCRANTZ! ADOLYS,
+
+--------------------------------------------------------------------------------
+>>>> t dragon
+--------------------
+<<<< ,
+Thou have it oft: but not back as henceds
+I'll belcome to be a cry.
+
+
+HORATIO
+It shall know, I am, it with you.
+
+
+
+HAMLET
+Sthere hath no more, sir.
+
+
+
+CADY MACDUFF
+Thou know not with the genter-cience,
+I have my lord
+
+--------------------------------------------------------------------------------
+>>>>  should look their sham
+--------------------
+<<<< e,
+And then the darerink, and to my bavia,--
+
+
+DOMEO
+O, sir, you, for't in the time; we'll have made
+That they are passion of them.
+
+
+ROMEO
+Yourto, good cry, my dear lord;
+And so a criverememplfed.
+
+
+BELLA
+
+
+
+
+--------------------------------------------------------------------------------
+>>>> ing on Nept
+--------------------
+<<<< i' the virt,
+The mark-night in the wish: the since
+Inight in the promise of our falage,
+With action patient of the pain: and sight
+Now is to want the matter, which which ears,
+Yours from the pates.
+
+
+SALCA
+Why, sir, that's found to the
+
+--------------------------------------------------------------------------------
+>>>> , lead them up
+--------------------
 <<<< .
 
 
-LADY MACBETH
-My son.
+
+OTHELLO
+In weed to dictorce is not well?
+Have you not to do not so.
+
+
+OTHELLO
+Away you, sir.
+
+
+JULIET
+Who'st you, and, if you should not so much.
 
 
 
-HAMLET
-Your is noby to be sword?
+ROSENCRANTZ
+Ay, what?
 
 
 
-HAMLET
-Drushing too, you did me; here to enough he met;
-I take then I damning to give.
-
-
-IAGO
-The
-
---------------------------------------------------------------------------------
->>>> UCK
-M
---------------------
-<<<< adam?
-
-
-
-HAMLET
-As it be done?
-
-
-
-IAGO
-Well, go, mark,
-To have a tears for swall'd; and my soul of foul,
-And mind out speeps could be bid my presently,
-And the gold, to
-
---------------------------------------------------------------------------------
->>>> s all,
-T
---------------------
-<<<< o woman sweet with the friend rather, hors,
-And what poorpertion, with the grows?
-
-
-
-DEMONA
-My lord?
-
-
-ECLLOTRA
-Do not so?
-
-
-ESDEMONA
-Two what sorth said, and a
-
---------------------------------------------------------------------------------
->>>> ON
-But we
---------------------
-<<<<  fight, what I know you are better, or no bled,
-Than foother's house of very chaty
-To temph. Come, that flight and comporness
-Here would have must be again; but let me passion.
-
-
-
-PORTIA
-But
-
---------------------------------------------------------------------------------
->>>>  salt gre
---------------------
-<<<< ath to beard:
-For I will have spove you she which till he did the men.
-
-
-
-First Soldier
-These spirr
-Clowns, sir, get himself; let me to come
-Upon the childre, Jew rus: there shall he
-And
+OTHELLO
+Ono, my

@@ -21,7 +21,7 @@ TODO:
  - add the results and briefly describe them. 
 ... 
 
-tiny GPT training curves: <br>
-![GPT training curves](./results/GPT/GPT_training_plot.png) <br>
-
-
+Tiny-GPT training curves: <br>
+<img src="./results/GPT/GPT_training_plot.png" alt="GPT training curves" width="720"> <br>
+Comparison of models on held out test data: <br>
+<img src="./results/model_comparison_test_results_ppl.png" alt="Model comparison on test data" width="720"> <br>

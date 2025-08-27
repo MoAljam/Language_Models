@@ -1,0 +1,21 @@
+test_ppl,val_ppl,train_ppl,merges,n_embed,n_heads,n_layers,model_size,test_loss,lr,dropout,weight_decay,scheduler,vocab_size,val_loss,train_loss,epochs,ckpt_best,ckpt_last,full_config_file,run,run_name,ckpt_path,generated_text_sample,context
+9.62426841513318,11.09883975982666,11.244375228881836,200,256,2,8,6564096,2.2642878684676995,0.0003,0.2,0.0001,cosine_warmup,460,2.406840547260485,2.419868090175304,30,../checkpoints/GPT/hparams_search/best_hps_250827_095358_47efe79a.pt,../checkpoints/GPT/hparams_search/last_hps_250827_095358_47efe79a.pt,../checkpoints/GPT/hparams_search/hps_250827_095358_47efe79a_hparams.json,hps_250827_095358_47efe79a,hps_250827_095358_47efe79a,../checkpoints/GPT/hparams_search/best_hps_250827_095358_47efe79a.pt,"y worths are end,
+In helding doth creature, but then then,
+And she comes itself of him.
+
+
+
+",shall the lovers
+18.292560739592034,22.008773803710938,20.74727439880371,800,256,2,8,6871296,2.906494460234771,0.0003,0.2,0.0001,cosine_warmup,1060,3.091441180254962,3.032414934230968,30,../checkpoints/GPT/hparams_search/best_hps_250827_103351_be76fdf0.pt,../checkpoints/GPT/hparams_search/last_hps_250827_103351_be76fdf0.pt,../checkpoints/GPT/hparams_search/hps_250827_103351_be76fdf0_hparams.json,hps_250827_103351_be76fdf0,hps_250827_103351_be76fdf0,../checkpoints/GPT/hparams_search/best_hps_250827_103351_be76fdf0.pt," of fans; the
+And let me have the firer the ears
+Which health.
+
+
+
+Nurse
+Adieve.
+
+
+
+Nurse
+Be not still",shall the lovers
